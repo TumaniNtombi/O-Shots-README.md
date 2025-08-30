@@ -1,1 +1,10 @@
+title: O Shots
+email: ntombimodimo@gmail.com
+description: >- 
+  O Shots is a refreshing health brand bringing you ginger boosters, juices, and wellness shots crafted in Botswana. 
+baseurl: "" # leave empty unless hosting in subdirectory
+url: "https://TumaniNtombi.github.io/O-Shots" # replace with your GitHub Pages link
 
+theme: minima
+plugins:
+  - jekyll-feed
